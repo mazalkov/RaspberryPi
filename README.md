@@ -1,2 +1,2 @@
 # RaspberryPi
-A repo where I mess arond on a Raspberry Pi and try to learn stuff
+A repo where I mess around on a Raspberry Pi 400 and try to learn stuff
